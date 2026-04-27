@@ -20,3 +20,7 @@
 ![Streak](https://streak-stats.demolab.com?user=kaushalpatelit1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalpatelit1)
+
+
+![C#](https://img.shields.io/badge/-C%23-blue)
+![.NET](https://img.shields.io/badge/-.NET-purple)
