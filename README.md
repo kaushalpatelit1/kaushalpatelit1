@@ -1,33 +1,3 @@
-# Hi 👋 I'm Kaushal
-
-## 🚀 About Me
-- .NET Developer transitioning to Business Analyst
-- Passionate about Data + System Design
-
-## 🛠 Tech Stack
-- C#, .NET, SQL
-- React, JavaScript
-
-## 📊 GitHub Stats
-(we’ll add this using tools below)
-
-## 📫 Contact Me
-- https://www.linkedin.com/in/kaushalapatel311/
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kaushalpateli)
-
-![Streak](https://streak-stats.demolab.com?user=kaushalpateli)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalpatelit1)
-
-
-![C#](https://img.shields.io/badge/-C%23-blue)
-![.NET](https://img.shields.io/badge/-.NET-purple)
-
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DotNet+Engineer)
-
-------------------------------------------------------------------------------------------------------
-
 # 👋 Hi, I'm Kaushal Patel
 
 💻 .NET Developer | 📊 Aspiring Business Analyst | 🚀 Problem Solver  
@@ -45,23 +15,18 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=csharp)
-![.NET](https://img.shields.io/badge/-.NET-purple?style=flat&logo=dotnet)
-![VB.NET](https://img.shields.io/badge/-VB.NET-blueviolet?style=flat)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat&logo=jquery)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
-
-### 🗄 Database
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?style=flat&logo=microsoftsqlserver)
-
-### ☁️ Tools & DevOps
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-blue?style=flat&logo=azuredevops)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
@@ -92,8 +57,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 📧 Email: your@email.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushalapatel311)
 
 ---
 
@@ -102,107 +66,8 @@ I combine **engineering + business thinking** to solve real-world problems.
 
 ---
 
-## 🧠 Quote I Live By
-> "First solve the problem. Then, write the code."
-
-
--------------------------------------------------------------------------------------------------------------------
-
-
-<h1 align="center">Kaushal Patel</h1>
-<p align="center">
-  <b>.NET Engineer → Business-Focused Systems Thinker</b><br/>
-  Building scalable systems & translating data into decisions
-</p>
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer)
 
 ---
 
-## 🧭 Philosophy
-I don’t just write code — I solve **business problems with systems thinking**.
-
-- Break ambiguous problems into structured solutions  
-- Design systems that scale and are maintainable  
-- Use data to drive decisions, not assumptions  
-
----
-
-## 🚀 What I Do
-- 💻 Build backend systems using **C# / .NET**
-- 🧩 Design scalable architectures (API, data flow, services)
-- 📊 Analyze data to uncover business insights
-- 🤝 Bridge gap between **engineering and business teams**
-
----
-
-## 🧠 Core Strengths
-- System Design (High-level + Low-level)
-- Object-Oriented Design (SOLID, Clean Architecture)
-- Debugging complex production issues
-- Translating business requirements into technical solutions
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Backend**
-C#, .NET, VB.NET  
-
-**Frontend**
-React, JavaScript, jQuery  
-
-**Data**
-SQL Server, Data Analysis, Reporting  
-
-**Tools**
-Azure DevOps, Git  
-
----
-
-## 📊 Engineering Signals
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## 📂 Selected Work (High Signal Only)
-
-### 🔹 Project: Scalable Order Processing System
-- Designed backend system handling high-volume transactions
-- Implemented clean architecture (separation of concerns)
-- Optimized SQL queries → improved performance
-
-### 🔹 Project: Data Insights Dashboard
-- Built data pipeline + reporting layer
-- Translated raw data into actionable business insights
-- Focus: decision-making, not just visualization
-
-### 🔹 Project: System Design Case Studies
-- Designed distributed systems (rate limiter, logging system, etc.)
-- Focus on trade-offs, scalability, and reliability
-
----
-
-## 📈 Current Focus
-- Advanced System Design (distributed systems)
-- Business Analytics (SQL + problem solving)
-- Preparing for top-tier engineering roles
-
----
-
-## 📫 Reach Me
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your@email.com
-
----
-
-## ⚡ Edge
-Most engineers write code.  
-I design systems that **solve the right problem**.
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
-
-
+![Visits](https://komarev.com/ghpvc/?username=kaushalpatelit1&label=Visits&color=brightgreen&style=flat)
