@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Kaushal
 
-<!--
-**kaushalpatelit1/kaushalpatelit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- .NET Developer transitioning to Business Analyst
+- Passionate about Data + System Design
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- C#, .NET, SQL
+- React, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+(we’ll add this using tools below)
+
+## 📫 Contact Me
+- LinkedIn
+- Email
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
