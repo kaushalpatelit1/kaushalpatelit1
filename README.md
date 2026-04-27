@@ -12,8 +12,7 @@
 (we’ll add this using tools below)
 
 ## 📫 Contact Me
-- LinkedIn
-- Email
+- https://www.linkedin.com/in/kaushalapatel311/
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kaushalpateli)
 
