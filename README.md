@@ -14,9 +14,7 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ---
 
@@ -47,8 +45,7 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushalapatel311)
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kaushalapatel311)
 ---
 
 ## ⚡ Fun Fact
