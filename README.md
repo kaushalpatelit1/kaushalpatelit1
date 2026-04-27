@@ -202,3 +202,8 @@ Azure DevOps, Git
 ## ⚡ Edge
 Most engineers write code.  
 I design systems that **solve the right problem**.
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+
+
