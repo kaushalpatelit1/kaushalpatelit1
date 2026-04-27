@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working as a **.NET Developer**
+- 🔭 Currently working as a **Software Developer**
 - 🌱 Transitioning into **Business Analysis & Data Analytics**
 - 🧠 Strong in **System Design, OOP, and Backend Engineering**
 - 📊 Passionate about turning **data into business insights**
@@ -14,25 +14,33 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-![My Skills](https://skillicons.dev/icons?i=html)
-![My Skills](https://skillicons.dev/icons?i=css)
-![My Skills](https://skillicons.dev/icons?i=bootstrap)
-![My Skills](https://skillicons.dev/icons?i=scss)
-![My Skills](https://skillicons.dev/icons?i=aws)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+![My Skills](https://skillicons.dev/icons?i=dotnet)
+![My Skills](https://skillicons.dev/icons?i=blazor)
+![SQL](https://www.readmecodegen.com/api/social-icon?name=mysql&shape=circle&bg=4479a1)
+
+![My Skills](https://skillicons.dev/icons?i=ai)
+![My Skills](https://skillicons.dev/icons?i=py)
 
 ![My Skills](https://skillicons.dev/icons?i=azure)
-![My Skills](https://skillicons.dev/icons?i=cs)
-![My Skills](https://skillicons.dev/icons?i=dotnet)
-![My Skills](https://skillicons.dev/icons?i=elasticsearch)
-![My Skills](https://skillicons.dev/icons?i=ai)
+![My Skills](https://skillicons.dev/icons?i=aws)
 
-![My Skills](https://skillicons.dev/icons?i=mysql)
-![My Skills](https://skillicons.dev/icons?i=npm)
-![My Skills](https://skillicons.dev/icons?i=py)
-![My Skills](https://skillicons.dev/icons?i=rabbitmq)
+![My Skills](https://skillicons.dev/icons?i=html)
+![My Skills](https://skillicons.dev/icons?i=css)
+![My Skills](https://skillicons.dev/icons?i=js)
+![My Skills](https://skillicons.dev/icons?i=bootstrap)
+![My Skills](https://skillicons.dev/icons?i=scss)
+
 ![My Skills](https://skillicons.dev/icons?i=react)
-![My Skills](https://skillicons.dev/icons?i=visualstudio)
+![TS](https://www.readmecodegen.com/api/social-icon?name=typescript&shape=circle&bg=3178c6)
+![My Skills](https://skillicons.dev/icons?i=webpack)
+![My Skills](https://skillicons.dev/icons?i=npm)
+
+![My Skills](https://skillicons.dev/icons?i=rabbitmq)
+![My Skills](https://skillicons.dev/icons?i=ts)
+
+![My Skills](https://skillicons.dev/icons?i=jira)
+![Sonar](https://www.readmecodegen.com/api/social-icon?name=sonarqube&shape=circle&bg=4e9bcd)
 
 ---
 
