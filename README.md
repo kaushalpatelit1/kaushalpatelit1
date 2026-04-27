@@ -15,6 +15,17 @@
 ## 🛠 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=html)]
+[![My Skills](https://skillicons.dev/icons?i=css)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=scss)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ---
 
