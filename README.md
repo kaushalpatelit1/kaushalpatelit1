@@ -15,9 +15,9 @@
 - LinkedIn
 - Email
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kaushalpatelit1)
+![Stats](https://github-readme-stats.vercel.app/api?username=kaushalpateli)
 
-![Streak](https://streak-stats.demolab.com?user=kaushalpatelit1)
+![Streak](https://streak-stats.demolab.com?user=kaushalpateli)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalpatelit1)
 
