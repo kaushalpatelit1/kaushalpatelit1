@@ -14,33 +14,29 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-![My Skills](https://skillicons.dev/icons?i=dotnet)
-![My Skills](https://skillicons.dev/icons?i=blazor)
-![SQL](https://www.readmecodegen.com/api/social-icon?name=mysql&shape=circle&bg=4479a1)
+[![CSharp](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
+![Blazor](https://www.readmecodegen.com/api/social-icon?name=blazor&shape=circle&bg=3178c6)
+![MySql](https://skillicons.dev/icons?i=mysql)
 
-![My Skills](https://skillicons.dev/icons?i=ai)
-![My Skills](https://skillicons.dev/icons?i=py)
+![Azure](https://skillicons.dev/icons?i=azure)
+![AWS](https://skillicons.dev/icons?i=aws)
 
-![My Skills](https://skillicons.dev/icons?i=azure)
-![My Skills](https://skillicons.dev/icons?i=aws)
+![AI](https://skillicons.dev/icons?i=ai)
+![Python](https://skillicons.dev/icons?i=py)
 
-![My Skills](https://skillicons.dev/icons?i=html)
-![My Skills](https://skillicons.dev/icons?i=css)
-![My Skills](https://skillicons.dev/icons?i=js)
-![My Skills](https://skillicons.dev/icons?i=bootstrap)
-![My Skills](https://skillicons.dev/icons?i=scss)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+![BOOTSTRAP](https://skillicons.dev/icons?i=bootstrap)
+![SCSS](https://skillicons.dev/icons?i=scss)
 
-![My Skills](https://skillicons.dev/icons?i=react)
-![TS](https://www.readmecodegen.com/api/social-icon?name=typescript&shape=circle&bg=3178c6)
-![My Skills](https://skillicons.dev/icons?i=webpack)
-![My Skills](https://skillicons.dev/icons?i=npm)
+![REACT](https://skillicons.dev/icons?i=react)
+![TS](https://skillicons.dev/icons?i=ts)
+![WEBPACK](https://skillicons.dev/icons?i=webpack)
+![NPM](https://skillicons.dev/icons?i=npm)
 
-![My Skills](https://skillicons.dev/icons?i=rabbitmq)
-![My Skills](https://skillicons.dev/icons?i=ts)
-
-![My Skills](https://skillicons.dev/icons?i=jira)
-![Sonar](https://www.readmecodegen.com/api/social-icon?name=sonarqube&shape=circle&bg=4e9bcd)
+![RABBITMQ](https://skillicons.dev/icons?i=rabbitmq)
 
 ---
 
