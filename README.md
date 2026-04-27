@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://learn.microsoft.com/en-us/dotnet/csharp/)]
+[![My Skills](https://skillicons.dev/icons?i=js)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 ![My Skills](https://skillicons.dev/icons?i=html)
 ![My Skills](https://skillicons.dev/icons?i=css)
 ![My Skills](https://skillicons.dev/icons?i=bootstrap)
