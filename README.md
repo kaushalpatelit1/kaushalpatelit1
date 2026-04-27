@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaushal Patel
+# 👋 Hi, I'm Kaushal
 
 💻 .NET Developer | 📊 Aspiring Business Analyst | 🚀 Problem Solver  
 
@@ -40,16 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Kaushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
----
-
 ## 📈 What I'm Focusing On
 - 📊 Data Analysis (SQL, Excel, Power BI)
 - 📐 System Design (scalable backend systems)
@@ -79,4 +69,4 @@ I combine **engineering + business thinking** to solve real-world problems.
 
 ---
 
-![Visits](https://komarev.com/ghpvc/?username=kaushalpatelit1&label=Visits&color=brightgreen&style=flat)
+<!-- ![Visits](https://komarev.com/ghpvc/?username=kaushalpatelit1&label=Visits&color=brightgreen&style=flat) --> 
