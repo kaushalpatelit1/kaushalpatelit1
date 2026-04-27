@@ -14,20 +14,9 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Sharepoint](https://img.shields.io/badge/Sharepoint-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,aws,azure,cs,elasticsearch,git,ai,mysql,npm,py,rabbitmq,react,visualstudio)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 ---
 
