@@ -14,6 +14,8 @@
 
 ## 🛠 Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
