@@ -105,3 +105,100 @@ I combine **engineering + business thinking** to solve real-world problems.
 
 ## 🧠 Quote I Live By
 > "First solve the problem. Then, write the code."
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+<h1 align="center">Kaushal Patel</h1>
+<p align="center">
+  <b>.NET Engineer → Business-Focused Systems Thinker</b><br/>
+  Building scalable systems & translating data into decisions
+</p>
+
+---
+
+## 🧭 Philosophy
+I don’t just write code — I solve **business problems with systems thinking**.
+
+- Break ambiguous problems into structured solutions  
+- Design systems that scale and are maintainable  
+- Use data to drive decisions, not assumptions  
+
+---
+
+## 🚀 What I Do
+- 💻 Build backend systems using **C# / .NET**
+- 🧩 Design scalable architectures (API, data flow, services)
+- 📊 Analyze data to uncover business insights
+- 🤝 Bridge gap between **engineering and business teams**
+
+---
+
+## 🧠 Core Strengths
+- System Design (High-level + Low-level)
+- Object-Oriented Design (SOLID, Clean Architecture)
+- Debugging complex production issues
+- Translating business requirements into technical solutions
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Backend**
+C#, .NET, VB.NET  
+
+**Frontend**
+React, JavaScript, jQuery  
+
+**Data**
+SQL Server, Data Analysis, Reporting  
+
+**Tools**
+Azure DevOps, Git  
+
+---
+
+## 📊 Engineering Signals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## 📂 Selected Work (High Signal Only)
+
+### 🔹 Project: Scalable Order Processing System
+- Designed backend system handling high-volume transactions
+- Implemented clean architecture (separation of concerns)
+- Optimized SQL queries → improved performance
+
+### 🔹 Project: Data Insights Dashboard
+- Built data pipeline + reporting layer
+- Translated raw data into actionable business insights
+- Focus: decision-making, not just visualization
+
+### 🔹 Project: System Design Case Studies
+- Designed distributed systems (rate limiter, logging system, etc.)
+- Focus on trade-offs, scalability, and reliability
+
+---
+
+## 📈 Current Focus
+- Advanced System Design (distributed systems)
+- Business Analytics (SQL + problem solving)
+- Preparing for top-tier engineering roles
+
+---
+
+## 📫 Reach Me
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Email: your@email.com
+
+---
+
+## ⚡ Edge
+Most engineers write code.  
+I design systems that **solve the right problem**.
