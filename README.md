@@ -24,3 +24,5 @@
 
 ![C#](https://img.shields.io/badge/-C%23-blue)
 ![.NET](https://img.shields.io/badge/-.NET-purple)
+
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DotNet+Engineer)
